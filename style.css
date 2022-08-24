@@ -1,0 +1,12 @@
+body{
+    background-image: url(Images/fruity.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
